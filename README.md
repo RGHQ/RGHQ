@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RGHQ
-- 👀 I’m interested in Python , JS  and rust.
+- 👀 I’m interested in Python , JS  and Rust.
 - 📫 Reach me at https://twitter.com/RegularguyHQ
 
 <!---
