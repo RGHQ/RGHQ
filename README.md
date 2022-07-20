@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RGHQ
-- 👀 I’m learning JS and P5.JS to make generative art .
+- 👀 I’m currently learning JS and P5.JS .
 - 📫 Reach me at https://twitter.com/RegularguyHQ
 
 <!---
