@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RGHQ
-- 👀 I’m interested in Python , JS  and Rust.
+- 👀 I’m learning JS and P5.JS to make generative art .
 - 📫 Reach me at https://twitter.com/RegularguyHQ
 
 <!---
